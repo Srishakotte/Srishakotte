@@ -25,7 +25,6 @@ I like building things where **software engineering meets practical AI** — fro
 - ⚙️ Built and deployed an automated runtime regression detection platform using **Python, GitHub Actions and CI/CD**
 - 📦 Migrated and validated **23+ internal Python packages and 4,000+ `measure_runtime` calls**
 - 🔍 Investigated and resolved **500+ weekly infrastructure/runtime failures** using **Grafana, InfluxDB and Git Bisect**
-- 🛠️ Resolved Python dependency, bootstrap configuration and CI pipeline failures, improving build consistency and developer productivity
 - 🐧 Worked across **Linux, Git, CI/CD and internal automation infrastructure**
 
 ### 21Spheres
