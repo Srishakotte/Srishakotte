@@ -29,7 +29,8 @@ I like building things where **software engineering meets practical AI** — fro
 - 🐧 Worked across **Linux, Git, CI/CD and internal automation infrastructure**
 
 <img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/2a04b58b-35a2-485d-99fe-5c23adc04a7e" />
-### [21Spheres](https://21spheres.com/)
+
+### [21Spheres](https://21spheres.com/).
 **Web Developer Intern · Frontend Team**  
 `Dec 2024 – Mar 2025` · Remote
 
