@@ -19,7 +19,6 @@ I like building things where **software engineering meets practical AI** — fro
 At **D. E. Shaw & Co.**, I worked on the Python Infrastructure team and built an automated regression detection platform for runtime performance.
 
 * 📦 Scaled migration & validation across **23+ Python packages**
-* 📊 Worked with **4,000+ runtime measurement calls**
 * 🔍 Investigated **500+ infrastructure/runtime failures**
 * ⚙️ Built automation using **Python, GitHub Actions, CI/CD, Linux, Grafana & InfluxDB**
 
