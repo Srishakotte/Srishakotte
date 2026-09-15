@@ -28,7 +28,7 @@ I like building things where **software engineering meets practical AI** — fro
 - 🔍 Investigated and resolved **500+ weekly infrastructure/runtime failures** using **Grafana, InfluxDB and Git Bisect**
 - 🐧 Worked across **Linux, Git, CI/CD and internal automation infrastructure**
 
-<img width="1128" height="191" alt="image" src="https://github.com/user-attachments/assets/2a04b58b-35a2-485d-99fe-5c23adc04a7e" />
+<img width="427" height="117" alt="image" src="https://github.com/user-attachments/assets/b167134d-e3c0-430e-9db7-df384ac3e7f6" />
 
 ### [21Spheres](https://21spheres.com/).
 **Web Developer Intern · Frontend Team**  
