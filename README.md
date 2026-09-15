@@ -16,11 +16,29 @@ I like building things where **software engineering meets practical AI** — fro
 
 ## ⚡ What I've worked on
 
-At **D. E. Shaw & Co.**, I worked on the Python Infrastructure team and built an automated regression detection platform for runtime performance.
+## 💼 Experience
 
-* ⚙️ Built automation using **Python, GitHub Actions, CI/CD, Linux, Grafana & InfluxDB**
-* 🔍 Investigated **500+ infrastructure/runtime failures**
-* 📦 Scaled migration & validation across **23+ Python packages**
+### D. E. Shaw & Co.
+**Technical Associate Intern · Python Infrastructure**  
+`Dec 2025 – May 2026` · Hyderabad
+
+- ⚙️ Built and deployed an automated runtime regression detection platform using **Python, GitHub Actions and CI/CD**
+- 📦 Migrated and validated **23+ internal Python packages and 4,000+ `measure_runtime` calls**
+- 🧹 Worked on **Bootstrap deprecation analysis and reporting** and related dependency/configuration migration work
+- 🔍 Investigated and resolved **500+ weekly infrastructure/runtime failures** using **Grafana, InfluxDB and Git Bisect**
+- 🛠️ Resolved Python dependency, bootstrap configuration and CI pipeline failures, improving build consistency and developer productivity
+- 🐧 Worked across **Linux, Git, CI/CD and internal automation infrastructure**
+
+### 21Spheres
+**Web Developer Intern · Frontend Team**  
+`Dec 2024 – Mar 2025` · Remote
+
+- ⚛️ Built and deployed a **responsive, mobile-first landing page** using React.js, JavaScript and Tailwind CSS
+- 📱 Optimized UI consistency across **15+ device resolutions**
+- 💬 Built an **interactive chatbot workflow** using reusable React components and frontend state management
+- 🎨 Focused on responsive design, reusable components and user experience
+
+**Tech:** `React.js` `JavaScript` `Tailwind CSS`
 
 I enjoy problems where the interesting part isn't just writing code — it's figuring out **how to make the whole system reliable.**
 
