@@ -17,6 +17,7 @@ I like building things where **software engineering meets practical AI** — fro
 ## ⚡ What I've worked on
 
 ## 💼 Experience
+<img width="620" height="156" alt="image" src="https://github.com/user-attachments/assets/5f747dac-77d3-417d-80c7-84cc9fb7aa8b" />
 
 ### D. E. Shaw & Co.
 **Technical Associate Intern · Python Infrastructure**  
